@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="employeeManagerV2"
+    errors="0" failures="0" hostname="" id="" package="employeeManagerV2" skipped="0"
+    tests="7" time="45.75" timestamp="">
+  
+    <testcase name="Test 1 - Employee Editor: Valid Data, Cancel Button" classname="employeeManagerV2" time="4.187" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Test 2 - Employee Editor: Valid Data, Add Employee, Search Box, Save/Clear/Delete Button" classname="employeeManagerV2" time="9.158" assertions="6">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test 3 - Employee Editor: Invalid Overfilled Name Input" classname="employeeManagerV2" time="6.541" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test 4 - Employee Editor: Invalid Empty Name Input" classname="employeeManagerV2" time="6.121" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test 5 - Employee Editor: Invalid Overfilled Title Input" classname="employeeManagerV2" time="6.136" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test 6 - Employee Editor: Invalid Single Space Character Name Input" classname="employeeManagerV2" time="6.673" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test 7 - Employee Editor: Invalid Single Space Character Title Input" classname="employeeManagerV2" time="6.932" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
