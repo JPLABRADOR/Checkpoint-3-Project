@@ -1,8 +1,18 @@
 module.exports = [
     {
-        employeeName: "Spike Spiegel",
-        employeePhone: "8001234567",
-        employeeEmail: "Spike@crazymail.com",
-        employeeTitle: "Bounty Hunter",
+        employeeInput: "Spike Spiegel",
+        employeeField: "@employeeNameInput"
+    },
+    {
+        employeeInput: "8001234567",
+        employeeField: "@employeePhoneInput"
+    },
+    {
+        employeeInput: "Spike@crazymail.com",
+        employeeField: "@employeeEmailInput"
+    },
+    {
+        employeeInput: "Bounty Hunter",
+        employeeField: "@employeeTitleInput"
     }
 ]
