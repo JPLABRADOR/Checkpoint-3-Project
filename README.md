@@ -1,7 +1,7 @@
 # Checkpoint-3-Project
 Automated testing for the "employee-manager-v2" web application. Browser automation created using Nightwatch.js.
 
-website: https://devmountain-qa.github.io/employee-manager-v2/build/index.html
+Website: https://devmountain-qa.github.io/employee-manager-v2/build/index.html
 
 #### Instructions:
 Install NodeJS (includes npm): https://nodejs.org/en/download/
