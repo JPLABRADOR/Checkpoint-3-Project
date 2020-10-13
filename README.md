@@ -21,5 +21,5 @@ cd Checkpoint-3-Project
 ```
 Execute the "Checkpoint-3-Project" automation:
 ```
-nightwatch /tests/employeeManagerV2.js
+nightwatch tests/employeeManagerV2.js
 ```
